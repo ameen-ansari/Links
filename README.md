@@ -1,35 +1,61 @@
-1=>alexandria-web
-https://www.figma.com/file/YCgFNt8dSyDBuKZk7TT5zo/Figma-to-React-(Copy)?t=ETSjdvyEzDlvR7ia-1
-https://alexandria-web-dev.vercel.app
+***alexandria-web***<br />
+figma design
+https://www.figma.com/file/YCgFNt8dSyDBuKZk7TT5zo/Figma-to-React-(Copy)?t=ETSjdvyEzDlvR7ia-1<br />
+deployment link
+https://alexandria-web-dev.vercel.app<br />
+git repo
 https://github.com/ameen-ansari/Alexandria-Web
 
-2=>coinbase-web
-https://www.figma.com/file/QxlioxHXK7EhQnYU7wCSq9/Figma-to-React?node-id=0%3A1&t=t0AvItnxTcBAjNxQ-0
-https://vercel.com/ameen-ansari/coin-base-web-dev
-https://github.com/ameen-ansari/Alexandria-Web
+***coinbase-web***<br />
+figma design
+https://www.figma.com/file/QxlioxHXK7EhQnYU7wCSq9/Figma-to-React?node-id=0%3A1&t=t0AvItnxTcBAjNxQ-0<br />
+deployment link
+https://vercel.com/ameen-ansari/coin-base-web-dev<br />
+git repo
+https://github.com/ameen-ansari/CoinBase-Web<br />
 
-3=>tokners-web
-https://www.figma.com/file/hxpCRfnSWWQ4J4NjjNCTft/Website-Design-%2B-Mobile-(Community)?node-id=7%3A272&t=ZsXW4hFU8vo4aRl2-0
-https://toknersweb.vercel.app/
-https://github.com/ameen-ansari/Tokner-s-Web
+***tokners-web***<br />
+figma design
+https://www.figma.com/file/hxpCRfnSWWQ4J4NjjNCTft/Website-Design-%2B-Mobile-(Community)?node-id=7%3A272&t=ZsXW4hFU8vo4aRl2-0<br />
+deployment link
+https://toknersweb.vercel.app<br />
+git repo
+https://github.com/ameen-ansari/Tokner-s-Web<br />
 
-4=>Weather-Web
+***Weather-Web***<br />
+git repo
 https://github.com/ameen-ansari/Weather-Web
-https://weather-web-theta.vercel.app/
+<br />
+deployment link
+https://weather-web-theta.vercel.app<br />
 
-5=>photography-portpholio-web
-https://www.figma.com/file/NlPFIPkLnKQWIwulDWhuuz/Portfolio-for-photography-(Community)?node-id=1%3A2&t=x6ZdKKCSf2RKGSUc-0
-https://photoshoot-ameen-ansari.vercel.app/
-https://github.com/ameen-ansari/PhotoGraphic-Web
+***portpholio-web***<br />
+figma design
+https://www.figma.com/file/NlPFIPkLnKQWIwulDWhuuz/Portfolio-for-photography-(Community)?node-id=1%3A2&t=x6ZdKKCSf2RKGSUc-0<br />
+deployment link
+https://photoshoot-ameen-ansari.vercel.app<br />
+git repo
+https://github.com/ameen-ansari/PhotoGraphic-Web<br />
 
-6=>creative-agency-web
-https://www.figma.com/file/FELuMRRPcKTZeNEfTDVV5e/Digital-Agency-Website---Freebie-(Community)?node-id=0%3A1&t=qnsdCIkLSETG7urc-0
-https://github.com/ameen-ansari/Digital-Agency-Web
-https://digital-agency-web.vercel.app/
+***creative-agency-web***<br />
+figma design
+https://www.figma.com/file/FELuMRRPcKTZeNEfTDVV5e/Digital-Agency-Website---Freebie-(Community)?node-id=0%3A1&t=qnsdCIkLSETG7urc-0<br />
+git repo
+https://github.com/ameen-ansari/Digital-Agency-Web<br />
+deployment link
+https://digital-agency-web.vercel.app<br />
 
-7=>travel-web
-https://www.figma.com/file/On6u65qDHnnz3rMYiCLNME/TRAVEL-website-landing-page-(Community)?node-id=0%3A1&t=i1RYdyQBkEhJIJYo-0
-https://travelers-world.vercel.app/
-https://github.com/ameen-ansari/Travel-Web
+***travel-web***<br />
+figma design
+https://www.figma.com/file/On6u65qDHnnz3rMYiCLNME/TRAVEL-website-landing-page-(Community)?node-id=0%3A1&t=i1RYdyQBkEhJIJYo-0<br />
+deployment link
+https://travelers-world.vercel.app<br />
+git repo
+https://github.com/ameen-ansari/Travel-Web<br />
 
-https://todonotes-nine.vercel.app
+
+***Others deployment links***<br />
+https://todonotes-nine.vercel.app<br />
+https://redux-app-alpha.vercel.app<br />
+https://todo-app-ans.vercel.app<br />
+https://todo-web-three.vercel.app<br />
