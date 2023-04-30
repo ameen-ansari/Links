@@ -10,7 +10,7 @@ https://github.com/ameen-ansari/Alexandria-Web
 figma design
 https://www.figma.com/file/QxlioxHXK7EhQnYU7wCSq9/Figma-to-React?node-id=0%3A1&t=t0AvItnxTcBAjNxQ-0<br />
 deployment link
-https://vercel.com/ameen-ansari/coin-base-web-dev<br />
+https://coin-base-web-dev.vercel.app<br />
 git repo
 https://github.com/ameen-ansari/CoinBase-Web<br />
 
@@ -59,3 +59,4 @@ https://todonotes-nine.vercel.app<br />
 https://redux-app-alpha.vercel.app<br />
 https://todo-app-ans.vercel.app<br />
 https://todo-web-three.vercel.app<br />
+https://food-dx-beryl.vercel.app<br />
