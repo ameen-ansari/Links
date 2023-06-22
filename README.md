@@ -60,3 +60,5 @@ https://redux-app-alpha.vercel.app<br />
 https://todo-app-ans.vercel.app<br />
 https://todo-web-three.vercel.app<br />
 https://food-dx-beryl.vercel.app<br />
+***A Admin_Panel links***<br />
+https://admin-portal-ameen-ansari.verce
